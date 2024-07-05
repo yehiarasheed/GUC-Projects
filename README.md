@@ -4,10 +4,10 @@ The following is a compilation of the projects I created while attending at the 
 ## Semester 4
 | Subject | Link |
 | --- | --- |
-| Concepts Of Programming Languages | [InternetShortcut] URL=https://github.com/yehiarasheed/Quiz-Proctoring-System |
-| Concepts Of Programming Languages | [InternetShortcut] URL=https://github.com/yehiarasheed/Peg-Reversal-Game |
-| Signals And System Theory | [InternetShortcut] URL=https://github.com/yehiarasheed/Noise-Cancellation-System |
-| Computer Organization | [InternetShortcut] URL=https://github.com/yehiarasheed/Basic-Computer-Simulation |
+| Concepts Of Programming Languages | https://github.com/yehiarasheed/Quiz-Proctoring-System |
+| Concepts Of Programming Languages | https://github.com/yehiarasheed/Peg-Reversal-Game |
+| Signals And System Theory | https://github.com/yehiarasheed/Noise-Cancellation-System |
+| Computer Organization | https://github.com/yehiarasheed/Basic-Computer-Simulation |
 
 
 
