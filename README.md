@@ -1,5 +1,5 @@
 # GUC-Projects
-The Following Is A Compilation Of The Projects I Created While Attending At The GUC As An Undergraduate Computer Science And Engineering Student.
+The following is a compilation of the projects I created while attending at the GUC as an Undergraduate Computer Science and Engineering Student.
 
 ## Semester 4
 | Subject | Link |
