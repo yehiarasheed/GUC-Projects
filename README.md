@@ -1,5 +1,8 @@
-# GUC-Projects
+# GUC Projects
 The following is a compilation of the projects I created while attending at the GUC as an Undergraduate Computer Science and Engineering Student.
+
+> [!TIP]
+>In collaborative projects, contributors are typically listed within each individual project.
 
 ## Semester 4
 | Subject | Link |
