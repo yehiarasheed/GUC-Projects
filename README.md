@@ -13,6 +13,12 @@ The following is a compilation of the projects I created while attending at the 
 | Signals And System Theory | [Noise Cancellation System](https://github.com/yehiarasheed/Noise-Cancellation-System) |
 | Computer Organization | [Basic Computer Simulation](https://github.com/yehiarasheed/Basic-Computer-Simulation) |
 
+## Semester 5
+| Subject | Link |
+| --- | --- |
+| Database I | [Telecom Customer Data Management System](https://github.com/yehiarasheed/Telecom-Customer-Data-Management-System) |
+| Digital System Design | [Smart Packaging System](https://github.com/JomanaMahmoud/Smart-Packaging-System) |
+| Introduction To Communication Networks | [Travelling Website](https://github.com/yehiarasheed/Travelling-Website) |
 
 
 
