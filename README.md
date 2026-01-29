@@ -27,4 +27,13 @@ The following is a compilation of the projects I created while attending at the 
 | Operating Systems | [OS Simulator](https://github.com/JomanaMahmoud/OS-project) |
 | Software Engineering | [GUC Internship Management System](https://github.com/JomanaMahmoud/Syntax-squad) |
 
+## Semester 7
+| Subject | Link |
+| --- | --- |
+| Advanced Computer Lab | [Eventy - GUC Event Management System](https://github.com/Advanced-Computer-Lab-2025/Eventy) |
+| Advanced Computer Lab Tasks | [Task 1](https://github.com/yehiarasheed/ACL-Task_1), [Task 2](https://github.com/yehiarasheed/ACL-Task_2), [Task 3](https://github.com/yehiarasheed/ACL-Task_3), [Task 4](https://github.com/yehiarasheed/ACL-Task_4) |
+| Embedded Systems | [Smart Mirror](https://github.com/yehiarasheed/The-Smart-Mirror-of-the-Chronos) |
+| Computer Graphics | [BMO: Quest for the Enchiridion](https://github.com/yehiarasheed/BMO-Quest-for-the-Enchiridion) |
+| Analysis and Design of Algorithms Assignment| [Mission Impossible: Solis](https://github.com/yehiarasheed/Mission-Impossible-Solis) |
+
 
