@@ -20,5 +20,11 @@ The following is a compilation of the projects I created while attending at the 
 | Digital System Design | [Smart Packaging System](https://github.com/JomanaMahmoud/Smart-Packaging-System) |
 | Introduction To Communication Networks | [Travelling Website](https://github.com/yehiarasheed/Travelling-Website) |
 
+## Semester 6
+| Subject | Link |
+| --- | --- |
+| Database II | [Mini DBMS](https://github.com/JomanaMahmoud/miniDBMS) |
+| Operating Systems | [OS Simulator](https://github.com/JomanaMahmoud/OS-project) |
+| Software Engineering | [GUC Internship Management System](https://github.com/JomanaMahmoud/Syntax-squad) |
 
 
